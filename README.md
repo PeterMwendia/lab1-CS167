@@ -5,8 +5,10 @@ Getting started with big data with hadoop in Java
 ![](img/main_class.png)
 
 ### run configuration
-=======
 [main](./img/main class.png)
+
+### input file
+![](img/input_file.png)
 
 ### compiling the app
 ```shell
