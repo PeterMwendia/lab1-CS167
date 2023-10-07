@@ -7,4 +7,4 @@ Getting started with big data with hadoop in Java
    ```
 
 ### main class
-[](./img/main class.png)
+[](./img/main_class.png)
