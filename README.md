@@ -20,4 +20,4 @@ Getting started with big data with hadoop in Java
 ![](img/mvn.png)
 
 ### output
-![](img/)
+![](img/output.png)
