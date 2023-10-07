@@ -1,2 +1,2 @@
-# lab1-CS167
-big data with hadoop
+# CS167-Lab1
+Getting started with big data with hadoop in Java
