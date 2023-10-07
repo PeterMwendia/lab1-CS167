@@ -5,3 +5,6 @@ Getting started with big data with hadoop in Java
 ```shell
     mvn package
    ```
+
+### main class
+[](./img/main class.png)
